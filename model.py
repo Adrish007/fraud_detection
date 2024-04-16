@@ -12,3 +12,4 @@ def model3():
 
 print("Model 2 is performing the best")
 print("Model 3 can perform better")
+print("This is from the testfolder")
